@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://yts.mx/rss/0/1080p/all/0/en" rel="self" type="application/rss+xml" />
+        <title>YTS RSS</title>
+        <description>Most popular Torrents in the smallest file size RSS Feed</description>
+        <link>https://yts.mx/</link>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 13 Jun 2025 12:44:34 +0200</lastBuildDate>
+            <item>
+                <title><![CDATA[Clown in a Cornfield (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]]]></title>
+                <description><![CDATA[<a href="https://yts.mx/movies/clown-in-a-cornfield-2025"><img src="https://img.yts.mx/assets/images/movies/clown_in_a_cornfield_2025/medium-cover.jpg" alt="Clown in a Cornfield (2025)" /></a><br />IMDB Rating: 5.9/10<br />Genre: Horror / Mystery / Thriller<br />Size: 1.61 GB<br />Runtime: 1hr 36 min<br /><br />]]></description>
+                <link>https://yts.mx/movies/clown-in-a-cornfield-2025</link>
+                <guid>https://yts.mx/movies/clown-in-a-cornfield-2025#1080p</guid>
+                <pubDate>Tue, 10 Jun 2025 15:20:10 +0200</pubDate>
+                <enclosure url="https://yts.mx/torrent/download/4014333BB1E10F068A520EB1D66CF7556EA24490" type="application/x-bittorrent" length="10000" />
+            </item>
+            <item>
+                <title><![CDATA[Clown in a Cornfield (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]]]></title>
+                <description><![CDATA[<a href="https://yts.mx/movies/clown-in-a-cornfield-2025"><img src="https://img.yts.mx/assets/images/movies/clown_in_a_cornfield_2025/medium-cover.jpg" alt="Clown in a Cornfield (2025)" /></a><br />IMDB Rating: 5.9/10<br />Genre: Horror / Mystery / Thriller<br />Size: 1.78 GB<br />Runtime: 1hr 36 min<br /><br />]]></description>
+                <link>https://yts.mx/movies/clown-in-a-cornfield-2025</link>
+                <guid>https://yts.mx/movies/clown-in-a-cornfield-2025#1080p</guid>
+                <pubDate>Tue, 10 Jun 2025 09:50:06 +0200</pubDate>
+                <enclosure url="https://yts.mx/torrent/download/1BC79E6F9A53F4B304DD0FF33FDCF7F2A4673779" type="application/x-bittorrent" length="10000" />
+            </item>
+            <item>
+                <title><![CDATA[Deep Cover (2025) [1080p] [WEBRip] [5.1] [YTS.MX]]]></title>
+                <description><![CDATA[<a href="https://yts.mx/movies/deep-cover-2025"><img src="https://img.yts.mx/assets/images/movies/deep_cover_2025/medium-cover.jpg" alt="Deep Cover (2025)" /></a><br />IMDB Rating: 6.9/10<br />Genre: Action / Comedy / Crime<br />Size: 1.86 GB<br />Runtime: 1hr 39 min<br /><br />]]></description>
+                <link>https://yts.mx/movies/deep-cover-2025</link>
+                <guid>https://yts.mx/movies/deep-cover-2025#1080p</guid>
+                <pubDate>Thu, 12 Jun 2025 11:44:03 +0200</pubDate>
+                <enclosure url="https://yts.mx/torrent/download/BFB421F04CFB7F22CFA6FDCB34299E661E8E26B2" type="application/x-bittorrent" length="10000" />
+            </item>
+            </channel>
+        </rss>
